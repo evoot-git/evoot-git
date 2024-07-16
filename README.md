@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @evoot-git
+- 👀 I’m interested in front-end development and UI/UX Desgining using Figma.
+- 🌱 I’m currently learning front-end development.
